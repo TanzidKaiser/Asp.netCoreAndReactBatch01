@@ -5,3 +5,6 @@
 /Samples/HelloWorld/.vs
 /Samples/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1
 /Samples/HelloWorld/HelloWorld/obj
+/Samples/WebApiApp/.vs
+/Samples/WebApiApp/WebApiApp/bin/Debug/netcoreapp2.1
+/Samples/WebApiApp/WebApiApp/obj
