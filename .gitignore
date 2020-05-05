@@ -8,3 +8,6 @@
 /Samples/WebApiApp/.vs
 /Samples/WebApiApp/WebApiApp/bin/Debug/netcoreapp2.1
 /Samples/WebApiApp/WebApiApp/obj
+/Samples/AspDotNetCoreMvcApp/.vs
+/Samples/AspDotNetCoreMvcApp/AspDotNetCoreMvcApp/bin/Debug/netcoreapp2.1
+/Samples/AspDotNetCoreMvcApp/AspDotNetCoreMvcApp/obj
